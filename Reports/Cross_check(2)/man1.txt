@@ -1,0 +1,7 @@
+Testing with "supp <= minSupp" and conf >= minConf
+              ---------------      ---------------
+minSupp = 0.05
+Frequent ItemSet = 42
+minConf = 0.25
+Rules = 1630
+ 
